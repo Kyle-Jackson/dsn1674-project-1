@@ -99,3 +99,19 @@ figure {
 figcaption {
   text-align: center;
 }
+
+dt {
+  font-weight: bold;
+  padding: 0 0 0 0.75rem;}
+
+dd {
+  padding: 0 0 0 0.75rem;
+}
+
+p {
+  padding: 0 0 0 0.75rem;
+}
+
+footer a {
+  
+}
