@@ -55,8 +55,12 @@ h2 {
   font-family: 'Sigmar One', cursive;
   padding: 0 0 0 0.75rem;
   border-top: 2px solid #ffe524
+}
 
-
+h3 {
+  color:#b32f52;
+  font-family: 'Sigmar One', cursive;
+  padding: 0 0 0 0.75rem;
 }
 
 a {
@@ -71,4 +75,27 @@ a:hover {
 blockquote {
   color: #b2a215;
 text-align: center;
+}
+
+cite:{
+  text-align: center;
+}
+
+img {
+  width: 100%;
+}
+
+div {
+  font size: 2rem;
+}
+
+figure {
+  border: 2px solid #c5b844;
+  border-radius: 5px;
+  padding: 0.25rem 0.5rem 0.25rem 0.5rem;
+  background-color: #fffce0;
+}
+
+figcaption {
+  text-align: center;
 }
