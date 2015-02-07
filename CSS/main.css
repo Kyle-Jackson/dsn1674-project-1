@@ -77,7 +77,7 @@ blockquote {
   text-align: center;
 }
 
-cite:{
+cite {
   text-align: center;
 }
 
@@ -86,7 +86,7 @@ img {
 }
 
 .quote {
-  font size: 3rem;
+  font size: 2em;
 }
 
 figure {
@@ -106,7 +106,6 @@ dt {
 
 dd {
   text align: left;
-
   }
 
 p {
