@@ -4,7 +4,7 @@ body {
 
 header {
   background-color: #ffe524;
-  padding: 0em 1em 1em 1em;
+  padding: 0em 1em 0.5em 1em;
   border: 2px solid #ffe524;
 }
 
@@ -24,7 +24,7 @@ nav {
 
 nav ul {
   line-height: 1.5;
-  padding: 0.5em 0em 2em 0em;
+  padding: 0.5em 0em 0.5em 0em;
   list-style-type: none;
   display: inline;
 }
@@ -54,7 +54,7 @@ h2 {
   font-size: 1.5rem;
   font-family: 'Sigmar One', cursive;
   padding: 0 0 0 0.75rem;
-  border-top: 2px solid #ffe524
+  border-top: 3px solid #ffe524
 }
 
 h3 {
@@ -74,7 +74,7 @@ a:hover {
 
 blockquote {
   color: #b2a215;
-text-align: center;
+  text-align: center;
 }
 
 cite:{
@@ -85,14 +85,14 @@ img {
   width: 100%;
 }
 
-div {
-  font size: 2rem;
+.quote {
+  font size: 3rem;
 }
 
 figure {
   border: 2px solid #c5b844;
   border-radius: 5px;
-  padding: 0.25rem 0.5rem 0.25rem 0.5rem;
+  padding: 0.75rem 0.75rem 0.75rem 0.75rem;
   background-color: #fffce0;
 }
 
@@ -105,13 +105,22 @@ dt {
   padding: 0 0 0 0.75rem;}
 
 dd {
-  padding: 0 0 0 0.75rem;
-}
+  text align: left;
+
+  }
 
 p {
   padding: 0 0 0 0.75rem;
 }
 
-footer a {
-  
+footer {
+  background-color: #ffe524;
+  color: black;
+  text-align: center;
+  padding: 1rem 0 1rem 0;
+  }
+
+blockquote cite {
+  color:#b2a215;
+  text-align: center;
 }
