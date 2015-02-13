@@ -85,7 +85,9 @@ img {
 }
 
 .quote {
-  font size: 2em;
+  font-size: 3em;
+  line-height: 0.5;
+  margin: 0.1em
 }
 
 figure {
