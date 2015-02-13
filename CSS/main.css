@@ -23,7 +23,6 @@ nav {
 }
 
 nav ul {
-  line-height: 1.5;
   padding: 0.5em 0em 0.5em 0em;
   list-style-type: none;
   display: inline;
@@ -31,7 +30,7 @@ nav ul {
 
 nav a {
   display: inline-block;
-  padding: 0.5em 0.75em;
+  padding: 0.25em 0.5em;
   background-color: #b2a215;
   color: white;
   text-decoration: none;
